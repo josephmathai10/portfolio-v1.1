@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #757575;
   background: #fff;
 }
 
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   transform: translate(-50%,-50%);
   vertical-align: middle;
-  height: 137%;
+  height: 145%;
   left: 50%;
   width: 50%;
 }
@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(100, 100, 100, 0.9);
+  background: rgba(139, 139, 139, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -361,7 +361,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #ff8800;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
